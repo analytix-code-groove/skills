@@ -1,6 +1,33 @@
 # Ejemplos de referencia
 
 > Los ejemplos 1 y 2 son PROVISORIOS, escritos para fijar el estilo inicial. El ejemplo 3 se basa en un caso real del equipo. Reemplazarlos por posts reales aprobados por Analytix a medida que se publiquen. Si hay ejemplos aprobados, priorizarlos sobre cualquier otra pauta.
+>
+> **Aprobados:** ejemplo 5.
+
+## Ejemplo 5 · APROBADO · Pilar: Equipo y forma de trabajo (hito) · Eje: Databricks · LinkedIn
+> Anuncio del partnership con Databricks (octubre 2026). Aprobado por Analytix.
+
+Un nuevo capítulo, en una historia que venimos escribiendo hace tiempo.
+
+@Databricks es parte de cómo trabajamos desde mucho antes de este anuncio. Ahora es oficial, y eso abre una etapa nueva: llevar su plataforma de Data + IA directamente a nuestros clientes, para que saquen más valor de sus datos y aceleren sus iniciativas de IA.
+
+Desde nuestra experiencia en datos, sobre todo en el sector salud, ayudamos a las empresas a:
+→ Modernizar su plataforma de datos.
+→ Escalar sin que los costos se disparen.
+→ Que cualquier líder obtenga respuestas de sus datos con solo preguntar.
+→ Anticipar tendencias antes de que pasen.
+
+Esto recién empieza: en las próximas semanas vamos a compartir casos y aprendizajes. Si estás pensando en modernizar tu plataforma de datos o en cómo Databricks puede complementarla, hablemos.
+
+#Databricks #DataEngineering #Lakehouse
+
+**Qué tomar de este ejemplo:**
+- La experiencia previa se sugiere sin fechas ni cifras ("desde mucho antes de este anuncio", "una historia que venimos escribiendo hace tiempo").
+- No repite en el texto lo que ya dice el visual: el video anuncia "Analytix es ahora Databricks Consulting & SI Partner", así que el post arranca desde otro ángulo.
+- Los beneficios están escritos para una audiencia de negocio: resultados ("escalar sin que los costos se disparen", "respuestas con solo preguntar", "anticipar tendencias"), no tecnologías.
+- El cierre combina una promesa de continuidad (casos y aprendizajes) con un CTA suave y neutro en voseo/tuteo.
+
+**Visual:** video de 10 s en formato 1080×1350. A la izquierda, "Analytix es ahora / Databricks Consulting & SI Partner" sobre negro con flechas del isotipo en contorno y el badge genérico de Brickbuilder Partner Network. A la derecha, la textura de la marca con una constelación de datos turquesa en movimiento y el logo de Analytix abajo, centrado. Se descartó el badge Bronze porque su color choca con el turquesa de Analytix.
 
 ## Ejemplo 1 · Pilar: Casos y aprendizajes · LinkedIn
 > Situación ilustrativa: sirve como referencia de estilo, no publicar tal cual. Para publicarlo, reemplazar por un caso real y completar [DATO].

@@ -13,7 +13,7 @@ Estas son buenas prácticas generales. Los algoritmos cambian: cuando haya datos
 - Contenido nativo: los links externos en el cuerpo reducen el alcance; van en el primer comentario.
 
 **Formatos, de mayor a menor potencial para este público**
-1. **Carrusel (documento PDF):** ideal para checklists, frameworks y "X errores comunes". Se guarda y se comparte mucho. 6 a 10 slides, una idea por slide, la primera slide es el gancho. Usar la identidad visual del brochure (negro, gris, turquesa, acento amarillo, patrones de puntos y hexágonos) para que se reconozca la marca.
+1. **Carrusel (documento PDF):** ideal para checklists, frameworks y "X errores comunes". Se guarda y se comparte mucho. 6 a 10 slides, una idea por slide, la primera slide es el gancho. Usar la identidad visual de `identidad-visual.md` (fondo negro low-poly, blanco y turquesa `#04D6A9`, tipografía Museo, logo oficial) para que se reconozca la marca.
    Ideas: "Errores de configuración de clusters que inflan la factura de Databricks", "Qué revisar antes de migrar a un lakehouse", "La cadena de datos en salud, actor por actor".
 2. **Texto + imagen propia:** diagrama simple, antes/después ("4 días → 2 horas"), arquitectura de referencia. Evitar imágenes de stock. **En salud, nunca usar capturas con datos reales, aunque estén anonimizados**: usar diagramas o datos ficticios.
 3. **Solo texto:** funciona bien para opinión y relatos de casos.

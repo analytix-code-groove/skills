@@ -1,0 +1,4 @@
+{
+  "kind": "json",
+  "text": "{\"v\":1,\"stage\":\"final\",\"look\":\"Pantalla dividida: a la izquierda titular y badge sobre negro con flechas del isotipo en contorno que derivan lento; a la derecha la textura low-poly de la marca con una constelación de datos turquesa en movimiento continuo y el logo abajo a la derecha. Tipografía Museo (archivos de la marca).\",\"palettes\":[[\"#0E0E0F\",\"#04D6A9\",\"#FFFFFF\",\"#A7A9AC\"]],\"theirs\":1,\"width\":1080,\"height\":1350,\"fps\":60,\"background\":\"#0E0E0F\",\"fonts\":{\"sans\":\"plus-jakarta-sans\"},\"scenes\":[{\"id\":\"anuncio\",\"name\":\"El anuncio\",\"dur\":10,\"desc\":\"Titular y badge a la izquierda; constelación turquesa en movimiento a la derecha; logo abajo a la derecha.\"}]}"
+}

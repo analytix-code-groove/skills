@@ -19,6 +19,7 @@ Antes de escribir, leé siempre:
 - `references/pilares.md` → pilares, ejes transversales (salud, Databricks, otras industrias), ángulos y caso ancla
 - `references/ejemplos.md` → posts de referencia
 - `references/playbook-redes.md` → formatos, frecuencia, horarios, mix mensual, distribución y métricas
+- `references/identidad-visual.md` → colores, tipografía, logos y estilo de las piezas (para el visual sugerido)
 
 Si hay contradicciones, priorizá en este orden: ejemplos marcados como aprobados → reglas que no se rompen (abajo) → `voz-y-tono.md` → el resto. Los ejemplos marcados como provisorios o ilustrativos sirven para el estilo, no como fuente de hechos.
 
@@ -36,7 +37,7 @@ Si una referencia tiene marcas [CONFIRMAR], [DEFINIR] o [VALIDAR], tratá ese pu
 3. **Escribir el post de LinkedIn** (formato abajo).
 4. **Adaptar a X** (no es un recorte: reescribí para el formato). Si el usuario indicó que no usa X, omitir este paso.
 5. **Proponer 3 ganchos alternativos** para la primera línea, con enfoques distintos (dato / pregunta / afirmación polémica / escena).
-6. **Sugerir el visual**, con la identidad del brochure (negro, gris, turquesa, acento amarillo).
+6. **Sugerir el visual**, según `identidad-visual.md`: fondo negro con textura low-poly, blanco y turquesa `#04D6A9`, tipografía Museo, logo oficial.
 7. **Escribir la versión para compartir** desde los perfiles personales de los fundadores y el equipo.
 8. **Dar indicaciones de publicación**: día y franja, formato y qué hacer en la primera hora (según `playbook-redes.md`).
 9. **Pasar el checklist final** antes de entregar.

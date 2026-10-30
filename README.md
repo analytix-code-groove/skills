@@ -14,8 +14,10 @@ skills/ (este repo)
 │   ├── voz-y-tono.md                 # Cómo habla Analytix
 │   ├── pilares.md                    # Pilares de contenido y ejes transversales
 │   ├── playbook-redes.md             # Formatos, frecuencia, horarios, distribución, métricas
-│   └── ejemplos.md                   # Posts de referencia
+│   ├── ejemplos.md                   # Posts de referencia
+│   └── identidad-visual.md           # Colores, tipografía, logos y estilo visual
 ├── build.sh                          # Empaqueta la skill
+├── campaigns/                        # Evidencia de campañas publicadas (texto, previews, video)
 └── analytix-social-content.skill     # Paquete generado (no editar a mano)
 ```
 
