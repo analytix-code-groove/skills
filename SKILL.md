@@ -49,7 +49,7 @@ Si una referencia tiene marcas [CONFIRMAR], [DEFINIR] o [VALIDAR], tratá ese pu
 - Párrafos de 1 a 3 líneas, con aire entre ellos. Se puede usar una lista corta (→ o •) cuando ordena la idea, no por costumbre.
 - Estructura base para leads: **dolor reconocible → qué hicimos o qué recomendamos → resultado o aprendizaje → cierre**.
 - Cierre: una pregunta que invite a comentar desde la experiencia del lector, o un CTA suave. En posts del pilar 4, el CTA concreto es la **reunión exploratoria de 15 minutos** (o un diagnóstico), con el link en el primer comentario.
-- Máximo 3 hashtags, al final, específicos (#DataEngineering, #Databricks, #Lakehouse, #IAGenerativa), nunca genéricos (#Innovación, #Éxito).
+- Hashtags al final: hasta 3 temáticos y específicos (#Databricks, #DataEngineering, #DataAnalytics, #Lakehouse, #IAGenerativa), más el de marca #Analytix cuando el post es institucional. Nunca genéricos (#Innovación, #Éxito).
 - Emojis: 0 a 2, funcionales, nunca decorativos en cada línea.
 - Links: no van en el cuerpo del post (penalizan el alcance). Si hay link, indicá "Link en el primer comentario" y dalo aparte.
 - Voseo cuando se le habla al lector ("¿Te pasó...?").

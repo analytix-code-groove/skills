@@ -7,22 +7,24 @@
 ## Ejemplo 5 · APROBADO · Pilar: Equipo y forma de trabajo (hito) · Eje: Databricks · LinkedIn
 > Anuncio del partnership con Databricks (octubre 2026). Aprobado por Analytix.
 
-Un nuevo capítulo, en una historia que venimos escribiendo hace tiempo.
+Una noticia que nos llena de orgullo.
 
-@Databricks es parte de cómo trabajamos desde mucho antes de este anuncio. Ahora es oficial, y eso abre una etapa nueva: llevar su plataforma de Data + IA directamente a nuestros clientes, para que saquen más valor de sus datos y aceleren sus iniciativas de IA.
+Hace muchos años que trabajamos con @Databricks. Con esta alianza, se abre una etapa nueva: llevar su plataforma de Data + IA directamente a nuestros clientes, para que obtengan más valor de sus datos, aceleren sus iniciativas de IA y democraticen el acceso a la información en toda la organización.
 
 Desde nuestra experiencia en datos, sobre todo en el sector salud, ayudamos a las empresas a:
 → Modernizar su plataforma de datos.
-→ Escalar sin que los costos se disparen.
-→ Que cualquier líder obtenga respuestas de sus datos con solo preguntar.
-→ Anticipar tendencias antes de que pasen.
+→ Escalar sin que los costos se disparen, pagando solo por lo que usan.
+→ Que los líderes del negocio obtengan respuestas de sus datos con solo preguntar.
+→ Anticipar tendencias, no solo analizar lo que ya pasó.
 
 Esto recién empieza: en las próximas semanas vamos a compartir casos y aprendizajes. Si estás pensando en modernizar tu plataforma de datos o en cómo Databricks puede complementarla, hablemos.
 
-#Databricks #DataEngineering #Lakehouse
+#Databricks #Analytix #DataEngineering #DataAnalytics
 
 **Qué tomar de este ejemplo:**
-- La experiencia previa se sugiere sin fechas ni cifras ("desde mucho antes de este anuncio", "una historia que venimos escribiendo hace tiempo").
+- La experiencia previa se sugiere sin fechas ni cifras ("hace muchos años que trabajamos con Databricks").
+- Incluye la democratización del acceso a los datos como beneficio para toda la organización.
+- Hashtags: tres temáticos más el de marca (#Analytix).
 - No repite en el texto lo que ya dice el visual: el video anuncia "Analytix es ahora Databricks Consulting & SI Partner", así que el post arranca desde otro ángulo.
 - Los beneficios están escritos para una audiencia de negocio: resultados ("escalar sin que los costos se disparen", "respuestas con solo preguntar", "anticipar tendencias"), no tecnologías.
 - El cierre combina una promesa de continuidad (casos y aprendizajes) con un CTA suave y neutro en voseo/tuteo.
